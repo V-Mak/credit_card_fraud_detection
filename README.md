@@ -7,7 +7,7 @@ The dataset was collected and analyzed during a research collaboration between W
 There are several different versions of the credit card fraud detection dataset available on Kaggle. The most popular version is the one from the Machine Learning Group (MLG) at the Université Libre de Bruxelles (ULB). This dataset was collected and analyzed during a research collaboration between Worldline and the MLG on big data mining and fraud detection.
 
 The given features are:
-* Time: The timestamp of the transaction.
+* time: The timestamp of the transaction.
 * V1 to V28: 28 numerical features that represent transaction details, such as the amount of the transaction, the location of the transaction, and the type of card used.
-* Amount: The transaction amount.
+* amount: The transaction amount.
 * The class label for each transaction is a binary variable indicating whether the transaction is fraudulent (1) or not (0).
